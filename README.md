@@ -33,3 +33,19 @@ Objective: In this lesson, you will learn the basics of Artificial Intelligence 
 
 # Q&A Session (Sonke Platfotm)
   -Allowing participants to ask questions, seek clarifications, and share insights related to AI/ML integration in Glide apps.
+
+
+
+# APIs are commonly used for various purposes, including: Application Programming Interface
+
+Integration: APIs allow different systems to work together. For example, a weather app might use an API to fetch current weather data from a remote server.
+
+Data Access: Many companies provide APIs to allow developers to access their data. This can include social media platforms, financial services, and more.
+
+Functionality Extension: APIs enable developers to extend the functionality of existing applications. For instance, plugins and extensions often use APIs to integrate with software like web browsers.
+
+Development Efficiency: Developers can save time by using APIs for pre-built components or services, rather than building everything from scratch.
+
+Automation: APIs are used to automate tasks by scripting interactions with different services.
+
+Third-Party Services: APIs allow third-party developers to create applications that interact with larger platforms. For example, integrating payment gateways, maps, or messaging services into an app.
